@@ -13,7 +13,7 @@ This is a Next.js application that allows users to filter vehicles based on thei
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/car-dealer-app.git
+   git clone https://github.com/anetta999/car-dealer-app-test.git
    ```
 
 2. Navigate to the project directory:
